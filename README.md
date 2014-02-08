@@ -7,10 +7,12 @@ Alogspot의 주소는 <a herf="algospot.com">alogspot.com</a> 이며 문제는 �
 <h2> Problems </h2>
 <p>
 - <a href="http://algospot.com/judge/problem/read/MERCY">Merciful Algospot</a>
+- <a href="http://algospot.com/judge/problem/read/ENDIANS">Endians</a>
 </P>
 
 <h2>History</h2>
 <p>
 - 2014. 2. 7 : AlgospotRepository 생성 및 ReadMe.md 업로드<br/>
 - 2014. 2. 7 : Mercy 업로드(Mercy.java & Mercy.cpp)<br/>
+- 2014. 2. 8 : Endians 업로드(Endians.java & Endians.cpp)<br/>
 </p>
