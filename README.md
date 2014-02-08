@@ -6,7 +6,7 @@ Alogspot의 주소는 <a herf="algospot.com">alogspot.com</a> 이며 문제는 �
 
 <h2> Problems </h2>
 <p>
-- <a href="http://algospot.com/judge/problem/read/MERCY">Merciful Algospot</a>
+- <a href="http://algospot.com/judge/problem/read/MERCY">Merciful Algospot</a><br/>
 - <a href="http://algospot.com/judge/problem/read/ENDIANS">Endians</a>
 </P>
 
