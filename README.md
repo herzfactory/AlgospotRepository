@@ -9,12 +9,14 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - <a href="http://algospot.com/judge/problem/read/MERCY">Merciful Algospot</a><br/>
 - <a href="http://algospot.com/judge/problem/read/ENDIANS">Endians</a><br/>
 - <a href="http://algospot.com/judge/problem/read/DRAWRECT">사각형 그리기</a><br/>
+- <a href="http://algospot.com/judge/problem/read/LECTURE">Lecture Note</a><br/>
 </P>
 
 <h2>History</h2>
 <p>
 - 2014. 2. 7 : AlgospotRepository 생성 및 ReadMe.md 업로드<br/>
-- 2014. 2. 7 : Mercy 업로드(Mercy.java & Mercy.cpp)<br/>
+- 2014. 2. 7 : Merciful Algospot 업로드(Mercy.java & Mercy.cpp)<br/>
 - 2014. 2. 8 : Endians 업로드(Endians.java & Endians.cpp)<br/>
-- 2014. 2. 8 : DrawRect 업로드(DrawRect.java & DrawRect.cpp)<br/>
+- 2014. 2. 8 : 사각형 그리기 업로드(DrawRect.java & DrawRect.cpp)<br/>
+- 2014. 2.10 : Lecture Note 업로드(Lecture.java(quickSor)t & Lecture.cpp(linearSort))<br/>
 </p>
