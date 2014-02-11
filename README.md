@@ -19,6 +19,6 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - 2014. 2.  7 : Merciful Algospot 업로드(Mercy.java & Mercy.cpp)<br/>
 - 2014. 2.  8 : Endians 업로드(Endians.java & Endians.cpp)<br/>
 - 2014. 2.  8 : 사각형 그리기 업로드(DrawRect.java & DrawRect.cpp)<br/>
-- 2014. 2.10 : Lecture Note 업로드(Lecture.java(quickSor)t & Lecture.cpp(linearSort))<br/>
-- 2014. 2.11 : 문자열 암호화 업로드(Encrypt.java & Encrypt.cpp)<br/>
+- 2014. 2. 10 : Lecture Note 업로드(Lecture.java(quickSor)t & Lecture.cpp(linearSort))<br/>
+- 2014. 2. 11 : 문자열 암호화 업로드(Encrypt.java & Encrypt.cpp)<br/>
 </p>
