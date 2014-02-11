@@ -12,6 +12,7 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - <a href="http://algospot.com/judge/problem/read/LECTURE">Lecture Note</a><br/>
 - <a href="http://algospot.com/judge/problem/read/ENCRYPT">문자열 암호화</a><br/>
 - <a href="http://algospot.com/judge/problem/read/MISPELL">Mispelling</a><br/>
+- <a href="http://algospot.com/judge/problem/read/CONVERT">conversions</a><br/>
 </P>
 
 <h2>History</h2>
@@ -23,4 +24,5 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - 2014. 2. 10 : Lecture Note 업로드(Lecture.java(quickSort) & Lecture.cpp(linearSort))<br/>
 - 2014. 2. 11 : 문자열 암호화 업로드(Encrypt.java & Encrypt.cpp)<br/>
 - 2014. 2. 11 : Mispelling 업로드(Mispell.java & Mispell.cpp)<br/>
+- 2014. 2. 11 : Conversions 업로드(Convert.java & Convert.cpp)<br/>
 </p>
