@@ -17,7 +17,7 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - <a href="http://algospot.com/judge/problem/read/XHAENEUNG">째능 교육</a><br/>
 - <a href="http://algospot.com/judge/problem/read/URI">URI Decoding</a><br/>
 - <a href="http://algospot.com/judge/problem/read/WEIRD">Weird Numbers</a><br/>
-- <a href="http://algospot.com/judge/problem/read/HAMMINGCODE">Hamming Code</a<br/>
+- <a href="http://algospot.com/judge/problem/read/HAMMINGCODE">Hamming Code</a><br/>
 - <a href="http://algospot.com/judge/problem/read/WEEKLYCALENDAR">Weekly Calendar</a><br/>
 </P>
 
