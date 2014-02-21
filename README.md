@@ -17,7 +17,8 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - <a href="http://algospot.com/judge/problem/read/XHAENEUNG">째능 교육</a><br/>
 - <a href="http://algospot.com/judge/problem/read/URI">URI Decoding</a><br/>
 - <a href="http://algospot.com/judge/problem/read/WEIRD">Weird Numbers</a><br/>
-- <a href="http://algospot.com/judge/problem/read/HAMMINGCODE">Hamming Code</a<br/>>
+- <a href="http://algospot.com/judge/problem/read/HAMMINGCODE">Hamming Code</a<br/>
+- <a href="http://algospot.com/judge/problem/read/WEEKLYCALENDAR">Weekly Calendar</a><br/>
 </P>
 
 
@@ -36,4 +37,5 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - 2014. 2. 17 : URI Decoding 업로드(URI.java & URI.cpp)<br/>
 - 2014. 2. 17 : Weird Numbers 업로드(Werid.java & Weird.cpp)<br/>
 - 2014. 2. 17 : Hamming Code 업로드(HammingCode.java & HammingCode.cpp)<br/>
+- 2014. 2. 21 : Weekly Calendar 업로드(WeeklyCalendar.java & WeeklyCalendar.cpp)<br/>
 </p>
