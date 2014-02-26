@@ -22,6 +22,7 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - <a href="http://algospot.com/judge/problem/read/SHISENSHO">Shisen-sho</a><br/>
 - <a href="http://algospot.com/judge/problem/read/BRACKETS2">Mismatched Brackets</a><br/>
 - <a href="http://algospot.com/judge/problem/read/FIXPAREN">Mismatched Parenthesis</a><br/>
+- <a href="http://algospot.com/judge/problem/read/NQUEEN">N-Queen</a><br/>
 </P>
 
 
@@ -44,4 +45,5 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - 2014. 2. 25 : Shisen-sho 업로드(Shishesho.java & Shisensho.cpp)<br/>
 - 2014. 2. 25 : Mismatched Brackets 업로드(Brackets2.java & Brackets.cpp)<br/>
 - 2014. 2. 26 : Mismatched Parenthesis 업로드(FixParen.java & FixParent.cpp)<br/>
+- 2014. 2. 26 : N-Queen 업로드(NQueen.java & NQueen.cpp)<br/>
 </p>
