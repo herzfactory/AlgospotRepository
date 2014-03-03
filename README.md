@@ -27,6 +27,7 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - <a href="http://algospot.com/judge/problem/read/CLOCKSYNC">Synchronizing Clocks</a><br/>
 - <a href="http://algospot.com/judge/problem/read/COINS">Coin Change</a><br/>
 - <a href="http://algospot.com/judge/problem/read/DIAMONDPATH">Best Path On A Diamond</a><br/>
+- <a href="http://algospot.com/judge/problem/read/LIS">Longest Increasing Sequence</a><br/>
 </P>
 
 
@@ -53,5 +54,6 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - 2014. 2. 26 : 게임판 덮기 업로드(BoardCover.java & BoardCover.cpp)<br/>
 - 2014. 2. 27 : Synchronizing Clocks 업로드(ClockSync.java & ClockSync.cpp)<br/>
 - 2014. 3.  3 : Coin Change 업로드(Coins.java & Coins.cpp)<br/> 
-- 2014. 3.  3 : Best Path On A Diamond 업로드(Diamond.java & Diamond.cpp)
+- 2014. 3.  3 : Best Path On A Diamond 업로드(DiamondPath.java & DiamondPath.cpp)<br/>
+- 2014. 3.  3 : Longest Increasing Sequence 업로드(LIS.java & LIS.cpp)<br/>
 </p>
