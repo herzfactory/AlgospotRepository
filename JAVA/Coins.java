@@ -5,9 +5,10 @@ import java.io.OutputStreamWriter;
 import java.util.Arrays;
 
 public class Coins {
-	
-	private static final int MAX_CASES = 1000000007;
-	private static final int[][] cache = new int[5001][100];
+	private static final int MAX_MONEY = 5001;
+    private static final int MAX_COINS = 100;
+    private static final int MAX_CASES = 1000000007;
+	private static int[][] cache = new int[MAX_MONEY][MAX_COINS];
 	
 	public static void main(String[] args) {
 		try {
@@ -22,9 +23,9 @@ public class Coins {
 				int[] coins = new int[coin];
 				input = reader.readLine().split(" ");
 				for (int i = 0; i < coin; i++) coins[i] = Integer.parseInt(input[i]);
-				for (int i = 0; i < 5001; i++) Arrays.fill(cache[i], -1);
+				for (int i = 0; i < MAX_MONEY; i++) Arrays.fill(cache[i], -1);
 				Arrays.sort(coins);
-				int changes = coinsChange(money, coins, 0);
+				int changes = coinsChange(money, coins, 0, coin);
 				writer.append(String.valueOf(changes));
 				writer.append("\n");
 			}
@@ -36,12 +37,12 @@ public class Coins {
 		}
 	}
 	
-	public static int coinsChange(int money, int[] coins, int index) {
+	public static int coinsChange(int money, int[] coins, int index, int coinSize) {
 		if (money < 0) return 0; else if (money == 0) return 1;
 		int ret = cache[money][index];
 		if (ret != -1) return ret; else ret = 0;
-		for (int i = index; i < coins.length; i++) {
-			ret += coinsChange(money - coins[i], coins, i);
+        for (int i = index; i < coinSize; i++) {
+			ret += coinsChange(money - coins[i], coins, i, coinSize);
 			if (ret > MAX_CASES) ret %= MAX_CASES;
 		}
 		cache[money][index] = ret;

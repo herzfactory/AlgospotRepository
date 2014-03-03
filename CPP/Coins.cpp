@@ -1,8 +1,10 @@
 #include <cstdio>
 #include <cstring>
 
+const int MAX_MONEY = 5001;
+const int MAX_COINS = 100;
 const int MAX_CASES = 1000000007;
-int cache[5001][100];
+int cache[MAX_MONEY][MAX_COINS];
 
 int coinsChanges(int money, int coins[], int index, int coinSize) {
 	if (money < 0) return 0; else if (money == 0) return 1;
