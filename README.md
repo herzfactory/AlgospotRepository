@@ -28,6 +28,7 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - <a href="http://algospot.com/judge/problem/read/COINS">Coin Change</a><br/>
 - <a href="http://algospot.com/judge/problem/read/DIAMONDPATH">Best Path On A Diamond</a><br/>
 - <a href="http://algospot.com/judge/problem/read/LIS">Longest Increasing Sequence</a><br/>
+- <a href="http://algospot.com/judge/problem/read/NUMBERGAME">숫자게임</a><br/>
 </P>
 
 
@@ -56,4 +57,5 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - 2014. 3.  3 : Coin Change 업로드(Coins.java & Coins.cpp)<br/> 
 - 2014. 3.  3 : Best Path On A Diamond 업로드(DiamondPath.java & DiamondPath.cpp)<br/>
 - 2014. 3.  3 : Longest Increasing Sequence 업로드(LIS.java & LIS.cpp)<br/>
+- 2014. 3.  4 : 숫자게임 업로드(NumberGame.java & NumberGame.cpp)<br/>
 </p>
