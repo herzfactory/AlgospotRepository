@@ -29,7 +29,7 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - <a href="http://algospot.com/judge/problem/read/DIAMONDPATH">Best Path On A Diamond</a><br/>
 - <a href="http://algospot.com/judge/problem/read/LIS">Longest Increasing Sequence</a><br/>
 - <a href="http://algospot.com/judge/problem/read/NUMBERGAME">숫자게임</a><br/>
-- <a href="http://algospot.com/judge/problem/read/QUARDTREE"></a>쿼드 트리 뒤집기<br/>
+- <a href="http://algospot.com/judge/problem/read/QUARDTREE">쿼드 트리 뒤집기</a><br/>
 </P>
 
 
