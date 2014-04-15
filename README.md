@@ -36,6 +36,7 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - <a href="http://algospot.com/judge/problem/read/PI">원주율 외우기</a><br/>
 - <a href="http://algospot.com/judge/problem/read/TILING2">타일링</a><br/>
 - <a href="http://algospot.com/judge/problem/read/TRIPATHCNT">삼각형 위의 최대 경로 수 세기</a><br/>
+- <a href="http://algospot.com/judge/problem/read/ASYMTILING"></a>비대칭 타일링<br/>
 </P>
 
 
@@ -72,4 +73,5 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - 2014. 4. 14 : 원주율 외우기 업로드(PI.java & PI.cpp)<br/>
 - 2014. 4. 14 : 타일링 업로드(Tiling2.java & Tiling2.cpp)<br/>
 - 2014. 4. 15 : 삼각형 위의 최대 경로 수 세기 업로드(TriPathCNT.java & TriPathCNT.cpp)<br/>
+- 2014. 4. 15 : 비대칭 타일링 업로드(AsymTiling.java & AsymTiling.cpp)<br/>
 </p>
