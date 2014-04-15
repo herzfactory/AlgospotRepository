@@ -36,7 +36,7 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - <a href="http://algospot.com/judge/problem/read/PI">원주율 외우기</a><br/>
 - <a href="http://algospot.com/judge/problem/read/TILING2">타일링</a><br/>
 - <a href="http://algospot.com/judge/problem/read/TRIPATHCNT">삼각형 위의 최대 경로 수 세기</a><br/>
-- <a href="http://algospot.com/judge/problem/read/ASYMTILING"></a>비대칭 타일링<br/>
+- <a href="http://algospot.com/judge/problem/read/ASYMTILING">비대칭 타일링</a><br/>
 </P>
 
 
