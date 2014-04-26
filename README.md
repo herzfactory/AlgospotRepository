@@ -44,6 +44,7 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - <a href="http://algospot.com/judge/problem/read/TRAVERSAL">트리 순회 순서 변경</a><br/>
 - <a href="http://algospot.com/judge/problem/read/FORTRESS">요새</a><br/>
 - <a href="http://algospot.com/judge/problem/read/RUNNINGMEDIAN">변화하는 중간값</a><br/>
+- <a href="http://algospot.com/judge/problem/read/QUANTIZATION">Quantization</a><br/>
 </P>
 
 
@@ -89,4 +90,5 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - 2014. 4. 23 : 요새 업로드(Fortress.java & Fortress.cpp)<br/>
 - 2014. 4. 24 : Treep 업로드(Treep.java & Treep.cpp)<br/>
 - 2014. 4. 25 : 변화하는 중간값 업로드(RunningMedian.java)<br/>
+- 2014. 4. 26 : Quantization 업로드(Quantization.java & Quantization.cpp)<br/>
 </p>
