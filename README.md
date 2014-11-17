@@ -46,6 +46,7 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - <a href="http://algospot.com/judge/problem/read/RUNNINGMEDIAN">변화하는 중간값</a><br/>
 - <a href="http://algospot.com/judge/problem/read/QUANTIZATION">Quantization</a><br/>
 - <a href="http://algospot.com/judge/problem/read/PICNIC">PICNIC</a><br/>
+- <a href="http://algospot.com/judge/problem/read/TSP1">Traveling Salesman Problem1</a><br/>
 </P>
 
 
@@ -93,5 +94,6 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - 2014. 4. 24 : Treep 업로드(Treep.java & Treep.cpp)<br/>
 - 2014. 4. 25 : 변화하는 중간값 업로드(RunningMedian.java)<br/>
 - 2014. 4. 26 : Quantization 업로드(Quantization.java & Quantization.cpp)<br/>
-- 2014.11. 11 : PICNIC 업로드(Picnice.java & Picnic.cpp)<br/>
+- 2014.11.11 : PICNIC 업로드(Picnice.java & Picnic.cpp)<br/>
+- 2014.11.17 : TSP1 업로드(TSP1.java & TSP1.cpp / brute-force algorithm)<br/>
 </p>
