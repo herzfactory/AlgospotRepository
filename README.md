@@ -47,6 +47,7 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - <a href="http://algospot.com/judge/problem/read/QUANTIZATION">Quantization</a><br/>
 - <a href="http://algospot.com/judge/problem/read/PICNIC">PICNIC</a><br/>
 - <a href="http://algospot.com/judge/problem/read/TSP1">Traveling Salesman Problem1</a><br/>
+- <a href="http://algospot.com/judge/problem/read/FENCE">울타리 잘라내기</a><br/>
 </P>
 
 
@@ -79,7 +80,7 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - 2014. 3.  4 : 숫자게임 업로드(NumberGame.java & NumberGame.cpp)<br/>
 - 2014. 3. 18 : 쿼드 트리 뒤집기 업로드(QuardTree.java & QuardTree.cpp)<br/>
 - 2014. 3. 25 : 외발뛰기 업로드(JumpGame.java & JumpGame.cpp)<br/>
-- 2014. 3. 25 : 울타리 잘라내기 업로드(Fence.java & Fence.cpp)<br/>
+- 2014. 3. 25 : 울타리 잘라내기 업로드/ Stack (Fence.java & Fence.cpp)<br/>
 - 2014. 3. 26 : 삼각형 위의 최대걍로 업로드(TrianglePath.java & TrianglePath.cpp)<br/>
 - 2014. 4. 14 : 원주율 외우기 업로드(PI.java & PI.cpp)<br/>
 - 2014. 4. 14 : 타일링 업로드(Tiling2.java & Tiling2.cpp)<br/>
@@ -96,4 +97,5 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - 2014. 4. 26 : Quantization 업로드(Quantization.java & Quantization.cpp)<br/>
 - 2014.11.11 : PICNIC 업로드(Picnice.java & Picnic.cpp)<br/>
 - 2014.11.17 : TSP1 업로드(TSP1.java & TSP1.cpp / brute-force algorithm)<br/>
+- 2014.11.18 : 울타리 잘라내기 업로드 / 분할정복(Fence_DC.java && Fence_DC.cpp)
 </p>
