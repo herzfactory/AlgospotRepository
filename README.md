@@ -48,6 +48,7 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - <a href="http://algospot.com/judge/problem/read/PICNIC">PICNIC</a><br/>
 - <a href="http://algospot.com/judge/problem/read/TSP1">Traveling Salesman Problem1</a><br/>
 - <a href="http://algospot.com/judge/problem/read/FENCE">울타리 잘라내기</a><br/>
+- <a href="http://algospot.com/judge/problem/read/WILDCARD">Wildcard</a><br/>
 </P>
 
 
@@ -98,4 +99,5 @@ Alogspot의 주소는 <a href="http://algospot.com">alogspot.com</a> 이며 문�
 - 2014.11.11 : PICNIC 업로드(Picnice.java & Picnic.cpp)<br/>
 - 2014.11.17 : TSP1 업로드(TSP1.java & TSP1.cpp / brute-force algorithm)<br/>
 - 2014.11.18 : 울타리 잘라내기 업로드 / 분할정복(Fence_DC.java && Fence_DC.cpp)
+- 2014.11.19 : WildCard 업로드(WildCard.java)
 </p>
